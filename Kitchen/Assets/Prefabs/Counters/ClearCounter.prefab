@@ -293,5 +293,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8fac5346e3c618d43bef93f727f3dd38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clearCounter: {fileID: 3133980912594570337}
-  visulaGameObject: {fileID: 1743210330437653530}
+  baseCounter: {fileID: 3133980912594570337}
+  visulaGameObjectArray:
+  - {fileID: 1743210330437653530}
